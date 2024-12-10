@@ -1,1 +1,0 @@
-Echo "This is first script"
